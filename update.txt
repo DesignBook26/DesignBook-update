@@ -1,5 +1,4 @@
 [General]
-Description=Correction
-Version=1.0.0
-Urgency=High
+Version=00.09.438
+Urgency=Mid
 Link=https://deine-update-adresse.de/DesignBook.zip
