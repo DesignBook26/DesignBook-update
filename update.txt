@@ -1,4 +1,4 @@
 [General]
 Version=00.09.438
 Urgency=Mid
-Link=https://deine-update-adresse.de/DesignBook.zip
+Link=https://github.com/DesignBook26/DesignBook-update/blob/main/DesignBook_00.09.435.zip
